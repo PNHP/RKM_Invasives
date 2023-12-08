@@ -1,0 +1,26 @@
+{
+    "id": "46172286",
+    "path": "H:/Scripts/COA_Tools/scripts/SGCN_DataCollection/11_SGCNcollector_gbif.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "3362090750",
+    "contents": "",
+    "dirty": true,
+    "created": 1695311013827.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "66,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1695244367,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1696011714613,
+    "read_only": false,
+    "read_only_alternatives": []
+}
